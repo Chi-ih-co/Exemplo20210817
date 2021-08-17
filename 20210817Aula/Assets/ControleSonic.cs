@@ -70,11 +70,7 @@ public class ControleSonic : MonoBehaviour
         Gizmos.DrawWireSphere(transform.position - diferenca,RAIO);
     }
 
-    //tosquera: Vamos acertar isso na segunda parte da aula
-    // private void OnCollisionEnter2D(Collision2D collision)
-    // {
-    //     GetComponent<Animator>().SetBool("NOCHAO", true);
-    // }
+	//essa alteração deverá funcionar
 
 
 }
